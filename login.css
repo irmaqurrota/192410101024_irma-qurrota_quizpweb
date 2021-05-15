@@ -1,0 +1,26 @@
+.uts{
+    text-align: center;
+    font-size: 20px;
+    margin-top: auto;
+}
+.box-login{
+    width: 40%;
+    height: 20px;
+    background-image: url('senja.png');
+    padding: 25%;
+    margin-top: auto;
+    margin-left: 70px;
+    font-size: 25px;
+    color: white;
+}
+.box-login form input[type=text],
+.box-login form input[type=password],
+.box-login form input[type=submit]{
+    width: 90%;
+    height: 45px;
+    margin: 3%;
+    padding-left: 5%;    
+    margin-top: auto;
+    text-align: center;
+}
+
